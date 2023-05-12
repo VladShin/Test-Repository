@@ -22,5 +22,5 @@ To file bugs, make feature requests, or suggest improvements for the Construct3 
 mailto:support@cleveradssolutions.com
 
 ## License
-The CAS Cordova plugin is available under a commercial license. See the LICENSE file for more info.
+The CAS Construct plugin is available under a commercial license. See the LICENSE file for more info.
 
