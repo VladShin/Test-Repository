@@ -12,10 +12,11 @@ To get started, here is the link to [Construct plugin integration documentation]
 ## Demo application
 
 The Integration Demo application demonstrate how to integrate the CAS in your app.
+
 [Construct3 Sample project](https://github.com/VladShin/Test-Repository/blob/main/CAS-Construct-Sample.c3p)
 
 ## GitHub issue tracker
-To file bugs, make feature requests, or suggest improvements for the Cordova Plugin SDK, please use [GitHub's issue tracker](https://github.com/VladShin/Test-Repository/issues).
+To file bugs, make feature requests, or suggest improvements for the Construct3 Plugin SDK, please use [GitHub's issue tracker](https://github.com/VladShin/Test-Repository/issues).
 
 ## Support
 mailto:support@cleveradssolutions.com
